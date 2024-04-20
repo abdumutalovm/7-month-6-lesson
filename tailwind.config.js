@@ -4,11 +4,11 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        ava: "url('./src/assets/user.svg')",
-        eye: "url('./src/assets/eye-slash.svg')",
-        lock: "url('./src/assets/lock.svg')",
-        email: "url('./src/assets/sms.svg')",
-        google: "url('./src/assets/google.svg')",
+        ava: "url('./public/user.svg')",
+        eye: "url('./public/eye-slash.svg')",
+        lock: "url('./public/lock.svg')",
+        email: "url('./public/sms.svg')",
+        google: "url('./public/google.svg')",
       },
       backgroundColor: {
         pink: "background: linear-gradient(91.94deg, #FFA7A7 3.09%, #FF014E 139.14%)",
